@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Authentication Issue",
+      "description": "Users are experiencing issues while logging in. After entering their credentials, the system does not authenticate them properly and redirects them to the login page again."
+    },
+    {
+      "id": 2,
+      "title": "Performance Degradation",
+      "description": "The application response time has significantly increased over the past week. Users are reporting slow loading times for various pages and actions."
+    },
+    {
+      "id": 3,
+      "title": "Database Connection Error",
+      "description": "The application is unable to establish a connection with the database. As a result, users are unable to retrieve or submit data."
+    },
+    {
+      "id": 4,
+      "title": "UI Rendering Issue",
+      "description": "Certain elements of the user interface are not rendering properly. This includes misaligned buttons, overlapping text, and missing images."
+    },
+    {
+      "id": 5,
+      "title": "Feature Request: Dark Mode",
+      "description": "Users have requested the addition of a dark mode feature to the application. This would improve visibility and reduce eye strain during prolonged usage, especially in low-light environments."
+    }
+  ]
+  
